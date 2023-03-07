@@ -1,0 +1,15 @@
+# Полезные ссылки
+
+- [OverEngineering, Карьера и гедонизм: всегда ли нужно делать то, что нравится?](https://www.youtube.com/watch?v=uTkh-0Q7VjA)
+- [OverEngineering, 3 ОШИБКИ, ВЕДУЩИЕ К ВЫГОРАНИЮ](https://www.youtube.com/watch?v=TeSOcYzwx9A)
+- [Профессиональное выгорание: кто виноват и что делать / Александр Орлов (Стратоплан)](https://www.youtube.com/watch?v=45hEPff4loE)
+- [Теперь я - тимлид, но почему мне так плохо? Практические советы / Евгений Кот (Wrike)](https://www.youtube.com/watch?v=7fnY8WVtElY)
+- [Практические примеры разбиения больших задач на микротаски / Никита Соболев (wemake.services)](https://www.youtube.com/watch?v=7wgxJirrg8U)
+- [Стандартизация и автоматизация: преодолеваем порог производительности команды / Антон Ущаповский](https://www.youtube.com/watch?v=-Q3dqSW3NZo)
+- [Как построить вовлеченную команду без пламенных речей и НЛП / Александра Баптизманская](https://www.youtube.com/watch?v=hWSLDqmZnXY)
+- [Как угробить командную работу: руководство для менеджера / Александра Баптизманская](https://www.youtube.com/watch?v=2yG1MUf2boc)
+- [Ваши процессы попахивают. Как это понять и что делать? / Филипп Дельгядо](https://www.youtube.com/watch?v=xNdh6DCDkG8)
+- [Peer Review / Филипп Дельгядо](https://www.youtube.com/watch?v=1bnIA1c3_30)
+- [Как подружить Быстрое продуктовое развитие и Enterprise-разработку / Анна Абрамова (РБК)](https://www.youtube.com/watch?v=hjtIOTu3C8g)
+- [Саморазвитие: как я не усидел на двух стульях и нашел третий / Эдуард Тянтов (Mail.ru Group)](https://www.youtube.com/watch?v=a1tHB9XnAVc)
+- [Как вырасти из разработчика в тимлида и жить с этим дальше / Екатерина Евтухова (МойСклад)](https://www.youtube.com/watch?v=XFZWXNqJc6I)
